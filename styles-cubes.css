@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+h1:hover {
+    color: white;
+}
+.right {
+    float: right;
+    margin: 0 1px;
+}
+.left {
+    float: left;
+    margin: 0 1px;
+}
+.center {
+    margin: 1px auto;
+}
+.clear {
+    clear: both;
+}
+.block {
+    background: red;
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+}
